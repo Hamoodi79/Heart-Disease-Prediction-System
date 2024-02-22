@@ -6,7 +6,9 @@ Features
 •Input features include but are not limited to age, sex, cholesterol levels, blood pressure, and other relevant health indicators.
 •Provides accurate predictions based on the trained model.
 •Easy-to-use interface for entering input data and obtaining predictions.
-Installation1.Clone the repository: git clone https://github.com/your-repo.git2.Install required dependencies: pip install -r requirements.txt
+Installation
+1.Clone the repository: git clone https://github.com/Heart-Disease-Prediction-System.git
+2.Install required dependencies: pip install -r requirements.txt
 Usage
 1.Run the main script: python heart_disease_prediction.py
 2.Enter the required input features when prompted.

@@ -11,7 +11,7 @@ This project aims to develop a Heart Disease Prediction System utilizing Logisti
 •Easy-to-use interface for entering input data and obtaining predictions.
 
 ### Installation
-1.Clone the repository: git clone https://github.com/Heart-Disease-Prediction-System.git
+1.Clone the repository: git clone https://github.com/Hamoodi79/Heart-Disease-Prediction-System.git
 
 2.Install required dependencies: pip install -r requirements.txt
 

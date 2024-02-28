@@ -30,5 +30,4 @@ Contributions are welcome! If you would like to contribute to this project, plea
 This project is licensed under the MIT License - see the LICENSE file for details.
 ## Contact
 For any questions or inquiries, please contact 
-
-<a href="https://github.com/Hamoodi79">Abdulhamid Ali</a> at [abdulhamidali135@gmail.com].
+<a href="https://github.com/Hamoodi79">Abdulhamid Ali</a> or at [abdulhamidali135@gmail.com].
